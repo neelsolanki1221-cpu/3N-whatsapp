@@ -1,0 +1,6 @@
+{
+  "name": "3n-whatsapp-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny serverless backend that sends automated WhatsApp order notifications for 3N Electronics via Twilio."
+}
